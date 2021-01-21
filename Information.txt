@@ -1,0 +1,3 @@
+Name: Idriss Tondji
+Background: Physics and Engineering Sciences
+Interest: Foundations of ML
